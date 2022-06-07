@@ -1,0 +1,9 @@
+body
+{
+    background-color: yellow;
+    height: 98vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
